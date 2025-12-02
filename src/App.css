@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #050510; /* Màu nền tối */
+  overflow: hidden;
+}
